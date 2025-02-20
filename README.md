@@ -1,4 +1,5 @@
-Projet d'Authentification en PHP
+# Projet d'Authentification en PHP
+
 Une application web développée avec PHP, offrant un système d'authentification sécurisé, permettant la gestion des utilisateurs, l'inscription, la connexion, et la gestion de session. Ce projet inclut la validation des données, la gestion du profil utilisateur, et la protection des sessions.
 
 ✨ Fonctionnalités
